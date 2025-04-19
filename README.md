@@ -1,51 +1,65 @@
-📜 Privacy Policy for Maya Movie Kids
-Last Updated: April 17, 2025  
-Welcome to Maya Movie Kids! We value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your data when you use our app, designed to provide safe and fun series and movies for children.  
+📜 Politique de Confidentialité – Maya Movie Kids
+Dernière mise à jour : 17 avril 2025
+
+Bienvenue sur Maya Movie Kids !
+Nous nous engageons à protéger la vie privée de nos utilisateurs, en particulier celle des enfants. Cette politique de confidentialité décrit comment nous collectons, utilisons et protégeons les informations lorsque vous utilisez notre application destinée aux enfants.
+
 🔹 1. Introduction
-By using Maya Movie Kids, you agree to the collection and use of data as outlined in this policy. If you do not agree with our practices, please refrain from using the app.  
-🔹 2. Information We Collect
-📌 2.1 Information You Provide
+En utilisant Maya Movie Kids, vous acceptez la collecte et l'utilisation de vos données comme décrit dans cette politique. Si vous êtes en désaccord avec nos pratiques, veuillez ne pas utiliser l'application.
+Nous respectons les Règles Google Play pour les contenus familiaux, et notre application est conçue pour être sûre et appropriée pour les enfants.
 
-Account Information (if applicable): Name, email address, or other details provided during account creation or app usage.  
-Support Requests: Information such as your email and issue details when you contact our support team.
+🔹 2. Informations que Nous Collectons
+📌 2.1 Informations fournies par l'utilisateur :
+Informations de compte (le cas échéant) : nom, adresse e-mail ou autres détails saisis lors de l’inscription.
 
-📌 2.2 Information Collected Automatically
+Demandes de support : adresse e-mail et description du problème lors de la prise de contact avec notre équipe.
 
-Usage Data: Features accessed, session duration, and interactions within the app (e.g., videos watched).  
-Device Data: Device model, operating system version, IP address, and unique device identifiers.  
-Crash Reports: Error logs to help us diagnose issues and improve app stability.
+📌 2.2 Informations collectées automatiquement :
+Données d'utilisation : fonctionnalités utilisées, durée des sessions, vidéos visionnées.
 
-📌 2.3 Third-Party Services
-Maya Movie Kids may use third-party services (e.g., analytics tools or content delivery networks) to enhance app performance and user experience. These services may collect data as described in their own privacy policies.  
-🔹 3. How We Use Your Information
-We use your data to:  
+Données de l'appareil : modèle, version du système, adresse IP, identifiants uniques.
 
-✅ Deliver and personalize safe, engaging content for children.  
-✅ Improve app functionality, performance, and security.  
-✅ Respond to customer support inquiries.  
-✅ Analyze usage patterns to enhance future updates.
+Rapports d’erreurs : journaux de crash pour améliorer la stabilité de l’application.
 
-🔹 4. Data Security
-We implement reasonable security measures to protect your data. However, no online service is entirely secure. Parents are encouraged to monitor their children’s app usage and avoid sharing sensitive information.  
-🔹 5. Sharing Your Data
-We do not sell or share your personal data, except:  
+📌 2.3 Services tiers :
+Nous utilisons des services tiers (par exemple, outils d’analyse ou diffusion de contenu) uniquement dans le but d’améliorer l’expérience utilisateur. Ces services respectent leurs propres politiques de confidentialité et sont conformes aux exigences familiales de Google Play.
 
-To comply with legal obligations.  
-To protect our rights or prevent fraud.  
-With trusted third-party providers necessary for app functionality (e.g., video streaming or analytics services).
+🔹 3. Utilisation des Informations
+Les données collectées sont utilisées pour :
+✅ Offrir un contenu sécurisé, amusant et personnalisé pour les enfants.
+✅ Améliorer les performances et la sécurité de l'application.
+✅ Répondre aux demandes de support.
+✅ Analyser l’utilisation de l’application pour des mises à jour futures.
 
-🔹 6. Your Rights
+🔹 4. Sécurité des Données
+Nous mettons en place des mesures raisonnables pour protéger vos données. Toutefois, aucun service en ligne n'est totalement sécurisé. Les parents sont encouragés à superviser l’utilisation de l’application par leurs enfants.
 
-🛠 Request access, correction, or deletion of your personal data.  
-🚫 Opt-out of optional data collection, such as analytics (where applicable).  
-📩 Contact us with privacy-related concerns.
+🔹 5. Partage des Données
+Nous ne vendons ni ne partageons les données personnelles sauf :
 
-🔹 7. Children's Privacy
-Maya Movie Kids is designed for children and complies with applicable children’s privacy laws, such as COPPA (Children’s Online Privacy Protection Act). We do not knowingly collect personal data from children under 13 without parental consent. Parents can contact us to review or delete their child’s data.  
-🔹 8. Changes to This Privacy Policy
-We may update this policy periodically. Changes will be posted online or within the app, with the updated date at the top. Continued use of the app after changes implies acceptance of the new policy.  
-🔹 9. Contact Us
-For questions about this Privacy Policy, please reach out:  
-📧 Email: elitesport.tn@gmail.com🌐 Website: https://elitesportholding.com/  
+Pour respecter les obligations légales.
 
-💡 Note: To comply with Google Play requirements, host this Privacy Policy online (e.g., on a website, GitHub Pages, or Notion) and include the URL in your Google Play Store listing under App Content > Privacy Policy.
+Pour protéger nos droits ou prévenir la fraude.
+
+Avec des prestataires de services tiers strictement nécessaires au bon fonctionnement de l’application.
+
+🔹 6. Vos Droits
+Vous pouvez :
+🛠 Demander l’accès, la correction ou la suppression de vos données personnelles.
+🚫 Refuser certaines collectes optionnelles (comme les données d’analyse, si disponible).
+📩 Nous contacter pour toute préoccupation liée à la vie privée.
+
+🔹 7. Confidentialité des Enfants
+Maya Movie Kids est conçue spécifiquement pour les enfants et respecte les lois applicables, notamment la COPPA.
+Nous ne collectons pas sciemment de données personnelles d’enfants de moins de 13 ans sans le consentement parental. Les parents peuvent nous contacter pour consulter ou supprimer les données de leur enfant.
+
+🔹 8. Modifications de cette Politique
+Cette politique peut être mise à jour à tout moment. Les changements seront publiés dans l’application ou sur notre site web, avec la date de mise à jour. Continuer d’utiliser l’application après les modifications vaut acceptation des nouvelles conditions.
+
+🔹 9. Nous Contacter
+Pour toute question ou demande concernant la confidentialité :
+📧 Email : elitesport.tn@gmail.com
+🌐 Site web : https://elitesportholding.com/
+
+🔒 Engagement familial :
+Cette application respecte les normes de sécurité et de confidentialité pour les enfants imposées par Google Play. 
